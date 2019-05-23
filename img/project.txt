@@ -1,0 +1,15 @@
+Implemented global and local decoding algorithm to find the hiddden sequence, a sequence of probabilties matrices that determine the occurance of DNA alphabet in DNA sequences.
+
+Implemented for zero order (the occurance of letters is independent of eachother) and first order where the occurance of letters is dependent on the previous one
+
+Worked using Rstudio and its standard libraries
+
+
+
+Created a small program that models the Hodgin Huxley Neuron model
+
+Used object oriented programming concepts in Python to build a program, the program shows users the available options for current, time period and magnitude of current,takes in the user input and use that to model the behaviour of the neuron
+
+Used Python and its standard libraries to devlope the program
+
+Photo by Markus Spiske on Unsplash
